@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\myMacro.inc</FILE>
+  <FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\UART_Macros.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\Debug\Source Code.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Source Code.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Source Code.map</FILE>
+  <FILE>Source Code.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>91</LINE></loop>
+  <wait_ldr><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>110</LINE></wait_ldr>
+  <wait_water><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>130</LINE></wait_water>
+  <flame_waIt><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>149</LINE></flame_waIt>
+  <wait_MQ2><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>168</LINE></wait_MQ2>
+  <LED_OFF><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>191</LINE></LED_OFF>
+  <pass1><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>194</LINE></pass1>
+  <WATER_LOW><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>204</LINE></WATER_LOW>
+  <pass2><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>209</LINE></pass2>
+  <FLAME_NOT_EXSIST><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>215</LINE></FLAME_NOT_EXSIST>
+  <PASS3><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>218</LINE></PASS3>
+  <GAS_NOT_DETECT><FILE>E:\COAL LAB\Iot Weather Station\Source Code\Source Code\main.asm</FILE><LINE>225</LINE></GAS_NOT_DETECT>
+ </LABELS>
+</ASSEMBLER_INFO>
